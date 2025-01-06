@@ -1,4 +1,4 @@
-# HTarrega
+# Hugo Tárrega
 
 Hi🃏! I'm Hugo Tárrega, a software engineer that loves hardware. I'm always trying to understand how machines and systems work. If you want to know more about me, you can go to [htarrega.me](htarrega.me).
 ### Some of My Projects
