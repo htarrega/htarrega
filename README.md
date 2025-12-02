@@ -10,6 +10,7 @@ Hi🃏! I'm Hugo Tárrega, a software engineer that loves hardware. I'm always t
   
 ### Advent of Code
 
+- [adventOfCode2025](https://github.com/htarrega/adventOfCode2025) - My solutions for **Advent Of Code 2025** in **C++** and **Python**.
 - [adventOfCode2024](https://github.com/htarrega/adventOfCode2024) - My solutions for **Advent Of Code 2024** in **C++** and **Python**.
 - [adventOfCode2023](https://github.com/htarrega/adventOfCode2023) - My solutions for **Advent Of Code 2023** in **C++** and **Python**.
 
