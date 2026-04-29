@@ -27,11 +27,6 @@ Hi🃏! I'm Hugo Tárrega, a software engineer that loves hardware. I'm always t
 
 - [static-web](https://github.com/htarrega/static-web) - A simple static landing page to introduce myself.
 
-### Non coding projects
-
-- [TINARC](https://github.com/htarrega/TINARC) - Scripts for **Tinarc Is Not A Reading Club**, a podcast about literature on X (prev. Twitter).
-
-
 ## Contact Information
 
 - **Email**: [hugots363@gmail.com](mailto:hugots363@gmail.com)
