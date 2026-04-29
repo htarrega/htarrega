@@ -3,6 +3,10 @@
 Hi🃏! I'm Hugo Tárrega, a software engineer that loves hardware. I'm always trying to understand how machines and systems work. If you want to know more about me, you can go to [htarrega.me](https://htarrega.me).
 ## Some of My Projects
 
+### AI / LLM
+
+[GramSwarm](https://github.com/htarrega/GramSwarm) - A synthetic alpha reader panel for novels. Uses profile-anchored LLM agents to derive narrative alpha — like tension, confusion, and abandonment risk — through predictive tracing rather than evaluative ratings.
+
 ### C++ Projects
 
 - [CHIP-8 Emulator](https://github.com/htarrega/CHIP-8-emulator) - A CHIP-8 emulator implemented in modern C++.
@@ -32,6 +36,4 @@ Hi🃏! I'm Hugo Tárrega, a software engineer that loves hardware. I'm always t
 
 - **Email**: [hugots363@gmail.com](mailto:hugots363@gmail.com)
 - **Website**: [http://htarrega.me/](http://htarrega.me/)
-
-[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=htarrega)](https://github.com/anuraghazra/github-readme-stats)
 
