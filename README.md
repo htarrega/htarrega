@@ -6,6 +6,7 @@ Hi🃏! I'm Hugo Tárrega, a software engineer that loves hardware. I'm always t
 ### AI / LLM
 
 - [GramSwarm](https://github.com/htarrega/GramSwarm) - A synthetic alpha reader panel for novels. Uses profile-anchored LLM agents to derive narrative alpha — like tension, confusion, and abandonment risk — through predictive tracing rather than evaluative ratings.
+- [editor-agent](https://github.com/htarrega/editor-agent) - An autonomous text correction agent in **Python**, with tool calling over local files and Google Drive access planned.
 
 ### C++ Projects
 
